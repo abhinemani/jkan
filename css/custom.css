@@ -1,3 +1,7 @@
 .jumbotron {
 	background-color: #ffffff;
 }
+
+#library_map {
+	border: none;
+}
